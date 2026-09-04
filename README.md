@@ -141,7 +141,7 @@ Luxury-Watches/
 
 ### 👨‍💻 المطور
 
-**Awab Wdbashry**
+**Awab Bashary | AwabBuilds**
 
 💻 Web Developer  
 🎨 UI & Front-End Development
@@ -303,7 +303,7 @@ to create a premium visual presentation. 🎬
 
 ## 👨‍💻 Developer
 
-**Awab Wdbashry**
+**Awab Bashary | AwabBuilds**
 
 💻 Web Developer  
 🎨 UI & Front-End Development
